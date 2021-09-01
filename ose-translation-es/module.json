@@ -1,0 +1,32 @@
+{
+  "name": "ose-translation-es",
+  "title": "[Translation] Old-School Essentials Spanish",
+  "description": "Traducción del sistema para OSE de U-man | Spanish translation for the OSE system by U-man",
+  "version": "1.0.0",
+  "minimumCoreVersion" : "0.8.6",
+  "compatibleCoreVersion":"0.8.8",
+  "author": "---",
+  "esmodules": [],
+  "scripts": [],
+  "styles": [],
+  "dependencies": [
+    {
+      "name": "ose",
+      "type": "system",
+      "version": "1.2.2"
+    }
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    }
+  ],
+  "system": "ose",
+  "systemVersion": "1.2.2",
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
