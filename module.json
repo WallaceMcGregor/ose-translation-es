@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "minimumCoreVersion" : "0.8.6",
   "compatibleCoreVersion":"0.8.8",
-  "author": "---",
+  "author": "WallaceMcGregor y Roberto Lorite",
   "esmodules": [],
   "scripts": [],
   "styles": [],
@@ -26,7 +26,7 @@
   ],
   "system": "ose",
   "systemVersion": "1.2.2",
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/WallaceMcGregor/ose-translation-es",
+  "manifest": "https://raw.githubusercontent.com/WallaceMcGregor/ose-translation-es/main/module.json",
+  "download": "https://github.com/WallaceMcGregor/ose-translation-es/archive/main.zip"
 }
