@@ -31,7 +31,7 @@
   "OSE.RollMode": "Modo de tirada",
   "OSE.RollExample": "ej. +1d4",
 
-  "OSE.roll.formula": "tirada {label}",
+  "OSE.roll.formula": "Tira {label}",
   "OSE.roll.appearing": "Tirada de atacantes ({type})",
   "OSE.roll.morale": "Chequeo de Moral",
   "OSE.roll.hd": "Tirada de Dados de Golpe",
