@@ -1,22 +1,107 @@
 {
-  "name": "ose-translation-es",
-  "title": "[Translation] Old-School Essentials Spanish",
-  "description": "Traducción del sistema para OSE de U-man | Spanish translation for the OSE system by U-man",
-  "version": "1.0.0",
-  "minimumCoreVersion" : "0.8.6",
-  "compatibleCoreVersion":"0.8.8",
-  "author": "Roberto Lorite y WallaceMcGregor",
-  "esmodules": [],
-  "scripts": [],
-  "styles": [],
-  "dependencies": [
+    "name": "ose-translation-es",
+    "title": "[Translation] Old-School Essentials Spanish",
+    "description": "Traducción del sistema y compendios para OSE de U-man | Spanish translation for the OSE system and compendiums by U-man",
+    "version": "1.0.0",
+    "minimumCoreVersion" : "0.8.6",
+    "compatibleCoreVersion":"0.8.8",
+    "author": "Roberto Lorite y WallaceMcGregor",
+    "esmodules": [],
+    "scripts": [],
+    "styles": [],
+    "dependencies": [
+      {
+        "name": "ose",
+        "type": "system",
+        "version": "1.2.2"
+      }
+    ],
+  "packs": [
     {
-      "name": "ose",
-      "type": "system",
-      "version": "1.2.2"
+      "name": "capacidades-clerigo",
+      "label": "Capacidades: Clérigo",
+      "package": "ose-translation-es",
+      "path": "packs/capacidades-clerigo.db",
+      "entity": "Item"
+    },
+    {
+      "name": "capacidades-enano",
+      "label": "Capacidades: Enano",
+      "package": "ose-translation-es",
+      "path": "packs/capacidades-enano.db",
+      "entity": "Item"
+    },
+    {
+      "name": "capacidades-elfo",
+      "label": "Capacidades: Elfo",
+      "package": "ose-translation-es",
+      "path": "packs/capacidades-elfo.db",
+      "entity": "Item"
+    },
+    {
+      "name": "capacidades-guerrero",
+      "label": "Capacidades: Guerrero",
+      "package": "ose-translation-es",
+      "path": "packs/capacidades-guerrero.db",
+      "entity": "Item"
+    },
+    {
+      "name": "capacidades-mediano",
+      "label": "Capacidades: Mediano",
+      "package": "ose-translation-es",
+      "path": "packs/capacidades-mediano.db",
+      "entity": "Item"
+    },
+    {
+      "name": "capacidades-mago",
+      "label": "Capacidades: Mago",
+      "package": "ose-translation-es",
+      "path": "packs/capacidades-mago.db",
+      "entity": "Item"
+    },
+    {
+      "name": "capacidades-ladron",
+      "label": "Capacidades: Ladrón",
+      "package": "ose-translation-es",
+      "path": "packs/capacidades-ladron.db",
+      "entity": "Item"
+    },
+    {
+      "name": "equipo-armaduras",
+      "label": "Equipo: Armaduras",
+      "package": "ose-translation-es",
+      "path": "packs/equipo-armaduras.db",
+      "entity": "Item"
+    },
+    {
+      "name": "equipo-equipo-de-aventura",
+      "label": "Equipo: Equipo de aventura",
+      "package": "ose-translation-es",
+      "path": "packs/equipo-equipo-de-aventura.db",
+      "entity": "Item"
+    },
+    {
+      "name": "equipo-monedas",
+      "label": "Equipo: Monedas",
+      "package": "ose-translation-es",
+      "path": "packs/equipo-monedas.db",
+      "entity": "Item"
+    },
+    {
+      "name": "equipo-municion",
+      "label": "Equipo: Munición",
+      "package": "ose-translation-es",
+      "path": "packs/equipo-municion.db",
+      "entity": "Item"
+    },
+    {
+      "name": "equipo-armas",
+      "label": "Equipo: Armas",
+      "package": "ose-translation-es",
+      "path": "packs/equipo-armas.db",
+      "entity": "Item"
     }
   ],
-  "packs": [],
   "languages": [
     {
       "lang": "es",
