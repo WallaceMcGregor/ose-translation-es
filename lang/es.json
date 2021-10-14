@@ -217,7 +217,7 @@
   "OSE.items.hasShield": "Tiene un bonificador por escudo",
   "OSE.items.typeTag": "Escribe una lista de etiquetas separadas por comas. P. ej. 'Cuerpo a cuerpo, A distancia (5’–10’ / 11’–20’ / 21’–30’)' y pulsa ENTER.",
   "OSE.items.enterTag": "Etiquetas",
-  "OSE.items.pattern": "Attack pattern marker",
+  "OSE.items.pattern": "Marcador de patrón de ataque",
   "OSE.items.uses": "Usos",
 
   "OSE.items.Range": "Alcance",
@@ -240,7 +240,7 @@
   "OSE.spells.spend": "¡{speaker} está lanzando {name}!",
   "OSE.spells.Memorized": "Memorizados",
   "OSE.spells.Cast": "Cast",
-  "OSE.spells.Range": "Range",
+  "OSE.spells.Range": "Alcance",
   "OSE.spells.Slots": "Espacios",
   "OSE.spells.Class": "Clase",
   "OSE.spells.Duration": "Duración",
