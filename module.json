@@ -100,7 +100,7 @@
       "package": "ose-translation-es",
       "path": "packs/equipo-armas.db",
       "entity": "Item"
-    }
+    },
     {
       "name": "hechizos",
       "label": "Hechizos",
