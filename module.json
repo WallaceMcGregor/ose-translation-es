@@ -107,6 +107,41 @@
       "package": "ose-translation-es",
       "path": "packs/hechizos.db",
       "entity": "Item"
+    },
+    {
+      "name": "tablas-de-objetos",
+      "label": "Tablas de objetos",
+      "package": "ose-translation-es",
+      "path": "packs/tablas-de-objetos.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "tablas-de-tesoros",
+      "label": "Tablas de tesoros",
+      "package": "ose-translation-es",
+      "path": "packs/tablas-de-tesoros.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "tesoros-armaduras-y-escudos",
+      "label": "Tesoros: Armaduras y escudos",
+      "package": "ose-translation-es",
+      "path": "packs/tesoros-armaduras-y-escudos.db",
+      "entity": "Item"
+    },
+    {
+      "name": "tesoros-objetos-miscelaneos",
+      "label": "Tesoros: Objetos misceláneos",
+      "package": "ose-translation-es",
+      "path": "packs/tesoros-objetos-miscelaneos.db",
+      "entity": "Item"
+    },
+    {
+      "name": "tesoros-pociones",
+      "label": "Tesoros: Pociones",
+      "package": "ose-translation-es",
+      "path": "packs/tesoros-pociones.db",
+      "entity": "Item"
     }
   ],
   "languages": [
