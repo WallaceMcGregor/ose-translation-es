@@ -2,7 +2,7 @@
     "name": "ose-translation-es",
     "title": "[Translation] Old-School Essentials Spanish",
     "description": "Traducción del sistema y compendios para OSE de U-man | Spanish translation for the OSE system and compendiums by U-man",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "minimumCoreVersion" : "0.8.6",
     "compatibleCoreVersion":"0.8.9",
     "author": "Roberto Lorite y WallaceMcGregor",
@@ -141,6 +141,34 @@
       "label": "Tesoros: Pociones",
       "package": "ose-translation-es",
       "path": "packs/tesoros-pociones.db",
+      "entity": "Item"
+    },
+    {
+      "name": "tesoros-anillos",
+      "label": "Tesoros: Anillos",
+      "package": "ose-translation-es",
+      "path": "packs/tesoros-anillos.db",
+      "entity": "Item"
+    },
+    {
+      "name": "tesoros-armas",
+      "label": "Tesoros: Armas",
+      "package": "ose-translation-es",
+      "path": "packs/tesoros-armas.db",
+      "entity": "Item"
+    },
+    {
+      "name": "tesoros-bastones-varas-y-varitas-magicas",
+      "label": "Tesoros: Bastones, varas y varitas magicas",
+      "package": "ose-translation-es",
+      "path": "packs/tesoros-bastones-varas-y-varitas-magicas.db",
+      "entity": "Item"
+    },
+    {
+      "name": "tesoros-espadas",
+      "label": "Tesoros: Espadas",
+      "package": "ose-translation-es",
+      "path": "packs/tesoros-espadas.db",
       "entity": "Item"
     }
   ],
