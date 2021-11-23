@@ -9,3 +9,9 @@ Añade el [manifest](https://raw.githubusercontent.com/WallaceMcGregor/ose-trans
 ## Próximas actualizaciones
 
 Se irán añadiendo los compendios conforme se van lanzando los libros oficiales.
+
+## SPAM
+
+Yo también tengo un café de esos:
+
+<a href='https://ko-fi.com/wallacemcgregor666' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='¡Apóyame en Ko-Fi!' /></a>
