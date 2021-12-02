@@ -2,7 +2,7 @@
     "name": "ose-translation-es",
     "title": "[Translation] Old-School Essentials Spanish",
     "description": "Traducción del sistema y compendios para OSE de U-man | Spanish translation for the OSE system and compendiums by U-man",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "minimumCoreVersion" : "0.8.6",
     "compatibleCoreVersion":"0.8.9",
     "author": "Roberto Lorite y WallaceMcGregor",
@@ -177,6 +177,13 @@
       "package": "ose-translation-es",
       "path": "packs/tablas-de-encuentros.db",
       "entity": "RollTable"
+    },
+    {
+      "name": "bestiario",
+      "label": "Bestiario",
+      "package": "ose-translation-es",
+      "path": "packs/bestiario.db",
+      "entity": "Actor"
     }
   ],
   "languages": [
