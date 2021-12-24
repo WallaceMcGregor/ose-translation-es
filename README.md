@@ -8,7 +8,7 @@ Añade el [manifest](https://raw.githubusercontent.com/WallaceMcGregor/ose-trans
 
 ## Próximas actualizaciones
 
-Se irán añadiendo los compendios conforme se van lanzando los libros oficiales.
+Corregir los errores conocidos del sistema.
 
 ## Vista previa
 
