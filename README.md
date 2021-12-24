@@ -10,6 +10,10 @@ Añade el [manifest](https://raw.githubusercontent.com/WallaceMcGregor/ose-trans
 
 Se irán añadiendo los compendios conforme se van lanzando los libros oficiales.
 
+## Vista previa
+
+![Vista previa](https://i.imgur.com/xpUiZOa.jpg)
+
 ## SPAM
 
 Yo también tengo un café de esos:
