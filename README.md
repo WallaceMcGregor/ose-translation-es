@@ -4,11 +4,7 @@ Este módulo contiene la traducción actualizada del sistema y los compendios, p
 
 ## Instalación
 
-Añade el [manifest](https://raw.githubusercontent.com/WallaceMcGregor/ose-translation-es/main/module.json) en la sección de **Instalar módulo**.
-
-## Próximas actualizaciones
-
-Corregir los errores conocidos del sistema.
+Instala el módulo **[Translation] Old-School Essentials Spanis**h o añade el [manifest](https://raw.githubusercontent.com/WallaceMcGregor/ose-translation-es/main/module.json) en la sección de **Instalar módulo**.
 
 ## Vista previa
 
