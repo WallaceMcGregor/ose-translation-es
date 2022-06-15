@@ -23,6 +23,8 @@
   "OSE.dialog.generateSaves": "Generar salvaciones",
   "OSE.dialog.generateScores": "Generar puntuaciones",
   "OSE.dialog.generateScore": "Tirando {score} ({count})",
+  "OSE.dialog.shoppingCart": "Cesta de la compra",
+  "OSE.dialog.purchaseFor": "Comprar por {totalCost} MO",
 
   "OSE.Formula": "Fórmula",
   "OSE.SitMod": "Modificador situacional",
@@ -186,7 +188,7 @@
   "OSE.Setting.EncumbranceComplete": "Completa",
   "OSE.Setting.MovementAuto": "Calcular movimiento",
   "OSE.Setting.SignificantTreasure": "Peso del tesoro significante",
-  "OSE.Setting.SignificantTreasureHint": "Peso al que el tesoro reducirá el movimiento, sólo útil para la carga básica", 
+  "OSE.Setting.SignificantTreasureHint": "Peso al que el tesoro reducirá el movimiento, sólo útil para la carga básica",
   "OSE.Setting.Languages": "Idiomas",
   "OSE.Setting.LanguagesHint": "Introduce una lista de idiomas separada por comas",
   "OSE.Setting.EnableInventory": "Activar inventario",
@@ -224,6 +226,8 @@
   "OSE.items.enterTag": "Etiquetas",
   "OSE.items.pattern": "Marcador de patrón de ataque",
   "OSE.items.uses": "Usos",
+  "OSE.items.gp.short": "MO",
+  "OSE.items.gp.long": "Monedas de oro",
 
   "OSE.items.Range": "Alcance",
   "OSE.items.Melee": "Melé",
@@ -293,7 +297,16 @@
   "OSE.reaction.Neutral": "{name} es neutral",
   "OSE.reaction.Indifferent": "{name} es indiferente",
   "OSE.reaction.Friendly": "{name} es amistoso",
-  
+
   "OSE.CombatFlag.SpellDeclared": "Hechizo declarado",
-  "OSE.CombatFlag.RetreatFromMeleeDeclared": "Retirada declarada"
+  "OSE.CombatFlag.RetreatFromMeleeDeclared": "Retirada declarada",
+
+  "OSE.warn.moreThanOneItemWithName": "Tu actor controlado {actorName} tiene más de un objeto que se llama ${itemName}. El primer objeto que concuerde será seleccionado.",
+
+  "OSE.error.macrosOnlyForOwnedItems": "Solo puedes crear botones de macro con los objetos que poseas",
+  "OSE.error.noItemWithName": "Tu actor controlado {actorName} no tiene el objeto llamado {itemName}.",
+  "OSE.error.notEnoughGP": "Este actor no posee suficiente MO para pagar su inventario.",
+  "OSE.error.itemNoLongerExistsOnActor": "El elemento {itemId} solicitado ya no existe en el actor {actorName}.",
+  "OSE.error.noTokenControlled": "Debes controlar uno o más tokens para poder utilizar esta opción.",
+  "OSE.error.noGP": "Necesitas un objeto MO para poder utilizar esta función."
 }
