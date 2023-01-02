@@ -4,7 +4,9 @@ Este módulo contiene la traducción actualizada del sistema y los compendios, p
 
 ## Instalación
 
-Instala el módulo **[Translation] Old-School Essentials Spanis**h o añade el [manifest](https://raw.githubusercontent.com/WallaceMcGregor/ose-translation-es/main/module.json) en la sección de **Instalar módulo**.
+Instala el módulo **[Translation] Old-School Essentials Spanish** o añade el [manifest](https://raw.githubusercontent.com/WallaceMcGregor/ose-translation-es/main/module.json) en la sección de **Instalar módulo**.
+
+Puedes utilizar el módulo **Compendium Folders** para organizar los compendios. En el archivo "compendiumfolder.txt" se encuentra la configuración que puedes copiar para añadirla en los ajustes del módulo e importarla.
 
 ## Vista previa
 
