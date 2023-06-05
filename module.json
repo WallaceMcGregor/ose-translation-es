@@ -2,7 +2,7 @@
     "name": "ose-translation-es",
     "title": "[Translation] Old-School Essentials Spanish",
     "description": "Traducción del sistema y compendios para OSE de U-man | Spanish translation for the OSE system and compendiums by U-man",
-    "version": "1.2.4",
+    "version": "1.3",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "11",
  	"compatibility": {
