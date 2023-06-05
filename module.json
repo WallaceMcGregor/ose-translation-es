@@ -2,8 +2,13 @@
     "name": "ose-translation-es",
     "title": "[Translation] Old-School Essentials Spanish",
     "description": "Traducción del sistema y compendios para OSE de U-man | Spanish translation for the OSE system and compendiums by U-man",
-    "version": "1.2.3",
-    "minimumCoreVersion" : "0.8.6",
+    "version": "1.2.4",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "11",
+ 	"compatibility": {
+		"minimum": 9,
+		"verified": 11
+	},
     "compatibleCoreVersion":"9",
     "author": "Roberto Lorite y WallaceMcGregor",
     "esmodules": [],
