@@ -22,168 +22,168 @@
       "label": "Capacidades: Clérigo",
       "package": "ose-translation-es",
       "path": "packs/capacidades-clerigo.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "capacidades-enano",
       "label": "Capacidades: Enano",
       "package": "ose-translation-es",
       "path": "packs/capacidades-enano.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "capacidades-elfo",
       "label": "Capacidades: Elfo",
       "package": "ose-translation-es",
       "path": "packs/capacidades-elfo.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "capacidades-guerrero",
       "label": "Capacidades: Guerrero",
       "package": "ose-translation-es",
       "path": "packs/capacidades-guerrero.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "capacidades-mediano",
       "label": "Capacidades: Mediano",
       "package": "ose-translation-es",
       "path": "packs/capacidades-mediano.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "capacidades-mago",
       "label": "Capacidades: Mago",
       "package": "ose-translation-es",
       "path": "packs/capacidades-mago.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "capacidades-ladron",
       "label": "Capacidades: Ladrón",
       "package": "ose-translation-es",
       "path": "packs/capacidades-ladron.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "equipo-armaduras",
       "label": "Equipo: Armaduras",
       "package": "ose-translation-es",
       "path": "packs/equipo-armaduras.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "equipo-equipo-de-aventura",
       "label": "Equipo: Equipo de aventura",
       "package": "ose-translation-es",
       "path": "packs/equipo-equipo-de-aventura.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "equipo-monedas",
       "label": "Equipo: Monedas",
       "package": "ose-translation-es",
       "path": "packs/equipo-monedas.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "equipo-municion",
       "label": "Equipo: Munición",
       "package": "ose-translation-es",
       "path": "packs/equipo-municion.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "equipo-armas",
       "label": "Equipo: Armas",
       "package": "ose-translation-es",
       "path": "packs/equipo-armas.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "hechizos",
       "label": "Hechizos",
       "package": "ose-translation-es",
       "path": "packs/hechizos.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "tablas-de-objetos",
       "label": "Tablas de objetos",
       "package": "ose-translation-es",
       "path": "packs/tablas-de-objetos.db",
-      "entity": "RollTable"
+      "type": "RollTable"
     },
     {
       "name": "tablas-de-tesoros",
       "label": "Tablas de tesoros",
       "package": "ose-translation-es",
       "path": "packs/tablas-de-tesoros.db",
-      "entity": "RollTable"
+      "type": "RollTable"
     },
     {
       "name": "tesoros-armaduras-y-escudos",
       "label": "Tesoros: Armaduras y escudos",
       "package": "ose-translation-es",
       "path": "packs/tesoros-armaduras-y-escudos.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "tesoros-objetos-miscelaneos",
       "label": "Tesoros: Objetos misceláneos",
       "package": "ose-translation-es",
       "path": "packs/tesoros-objetos-miscelaneos.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "tesoros-pociones",
       "label": "Tesoros: Pociones",
       "package": "ose-translation-es",
       "path": "packs/tesoros-pociones.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "tesoros-anillos",
       "label": "Tesoros: Anillos",
       "package": "ose-translation-es",
       "path": "packs/tesoros-anillos.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "tesoros-armas",
       "label": "Tesoros: Armas",
       "package": "ose-translation-es",
       "path": "packs/tesoros-armas.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "tesoros-bastones-varas-y-varitas-magicas",
       "label": "Tesoros: Bastones, varas y varitas magicas",
       "package": "ose-translation-es",
       "path": "packs/tesoros-bastones-varas-y-varitas-magicas.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "tesoros-espadas",
       "label": "Tesoros: Espadas",
       "package": "ose-translation-es",
       "path": "packs/tesoros-espadas.db",
-      "entity": "Item"
+      "type": "Item"
     },
     {
       "name": "tablas-de-encuentros",
       "label": "Tablas de encuentros",
       "package": "ose-translation-es",
       "path": "packs/tablas-de-encuentros.db",
-      "entity": "RollTable"
+      "type": "RollTable"
     },
     {
       "name": "bestiario",
       "label": "Bestiario",
       "package": "ose-translation-es",
       "path": "packs/bestiario.db",
-      "entity": "Actor"
+      "type": "Actor"
     }
   ],
   "languages": [
